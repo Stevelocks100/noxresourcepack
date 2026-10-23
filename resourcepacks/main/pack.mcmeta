@@ -1,0 +1,14 @@
+{
+	"pack": {
+		"description": [
+			{
+				"color": "yellow",
+				"bold": true,
+				"shadow_color": 4289396736,
+				"text": "Circus Event"
+			}
+		],
+		"min_format": 75,
+		"max_format": 75
+	}
+}
