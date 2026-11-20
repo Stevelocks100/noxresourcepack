@@ -1,0 +1,34 @@
+{
+  "timer": {
+    "sounds": [
+      {
+        "name": "carnivalrp:timer",
+        "stream": true
+      }
+    ]
+  },
+  "chase": {
+    "sounds": [
+      {
+        "name": "carnivalrp:chase",
+        "stream": true
+      }
+    ]
+  },
+  "footstepsrun": {
+    "sounds": [
+      {
+        "name": "carnivalrp:footstepsrun",
+        "stream": true
+      }
+    ]
+  },
+  "laugh": {
+    "sounds": [
+      {
+        "name": "carnivalrp:laugh",
+        "stream": true
+      }
+    ]
+  }
+}
